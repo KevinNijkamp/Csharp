@@ -9,3 +9,14 @@ D:\Visual Studio\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.Assemb
 D:\Visual Studio\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.AssemblyInfo.cs
 D:\Visual Studio\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.dll
 D:\Visual Studio\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.pdb
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.0\SoundSharp.deps.json
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.0\SoundSharp.runtimeconfig.json
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.0\SoundSharp.runtimeconfig.dev.json
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.0\SoundSharp.dll
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.0\SoundSharp.pdb
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.csprojAssemblyReference.cache
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.csproj.CoreCompileInputs.cache
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.AssemblyInfoInputs.cache
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.AssemblyInfo.cs
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.dll
+D:\SourceTree\Map 1\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.0\SoundSharp.pdb
