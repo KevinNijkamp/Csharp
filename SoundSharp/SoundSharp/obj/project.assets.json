@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\SoundSharp\\SoundSharp\\SoundSharp.csproj",
+      "projectUniqueName": "D:\\SourceTree\\Map 1\\SoundSharp\\SoundSharp\\SoundSharp.csproj",
       "projectName": "SoundSharp",
-      "projectPath": "D:\\Visual Studio\\SoundSharp\\SoundSharp\\SoundSharp.csproj",
+      "projectPath": "D:\\SourceTree\\Map 1\\SoundSharp\\SoundSharp\\SoundSharp.csproj",
       "packagesPath": "C:\\Users\\The Joker\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\SoundSharp\\SoundSharp\\obj\\",
+      "outputPath": "D:\\SourceTree\\Map 1\\SoundSharp\\SoundSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
