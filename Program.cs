@@ -102,6 +102,16 @@ namespace SoundSharp
 
             menu['2'] = "Overzicht voorraad";
 
+            menu['3'] = "Muteer voorraad toe";
+
+            menu['4'] = "Statistieken";
+
+            menu['5'] = "Toevoegen mp3 speler";
+
+            menu['6'] = "/";
+
+            menu['7'] = "/";
+
             menu['8'] = "Toon menu";
 
             menu['9'] = "Exit";
@@ -144,7 +154,37 @@ namespace SoundSharp
 
                         case '2':
 
-                            ShowId();
+
+
+                            break;
+
+                        case '3':
+
+
+
+                            break;
+
+                        case '4':
+
+
+
+                            break;
+
+                        case '5':
+
+
+
+                            break;
+
+                        case '6':
+
+
+
+                            break;
+
+                        case '7':
+
+
 
                             break;
 
@@ -168,19 +208,7 @@ namespace SoundSharp
 
         }
 
-        static void ShowId()
-
-        {
-            Console.WriteLine("Overzicht voorraad");
-
-            foreach (MP3Player mp3player in ShowMP3Player)
-
-            {
-
-                Console.WriteLine("ID {0}", mp3player.id);
-
-            }
-        }
+        
 
 
 
